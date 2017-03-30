@@ -1,0 +1,1582 @@
+Buildfile: U:\AAGA\workspace\TME2_diskGraphs1\build.xml
+init:
+compile:
+    [javac] U:\AAGA\workspace\TME2_diskGraphs1\build.xml:15: warning: 'includeantruntime' was not set, defaulting to build.sysclasspath=last; set to false for repeatable builds
+    [javac] Compiling 1 source file to U:\AAGA\workspace\TME2_diskGraphs1\javabeans
+init:
+compile:
+    [javac] U:\AAGA\workspace\TME2_diskGraphs1\build.xml:15: warning: 'includeantruntime' was not set, defaulting to build.sysclasspath=last; set to false for repeatable builds
+rand:
+     [echo] ================ Run Object Main ================
+     [java] I/O exception: unable to create input.points
+init:
+compile:
+    [javac] U:\AAGA\workspace\TME2_diskGraphs1\build.xml:15: warning: 'includeantruntime' was not set, defaulting to build.sysclasspath=last; set to false for repeatable builds
+goTest:
+     [echo] ================ Run Object Main ================
+     [java] Erreur : impossible de trouver ou charger la classe principale algorithms.TestBedEvaluator
+     [java] Java Result: 1
+init:
+compile:
+    [javac] U:\AAGA\workspace\TME2_diskGraphs1\build.xml:15: warning: 'includeantruntime' was not set, defaulting to build.sysclasspath=last; set to false for repeatable builds
+run:
+     [echo] ================ Run Object Main ================
+     [java] Input 0 successfully read. Computing...
+     [java] 1 : 94
+     [java] 2 : 93
+     [java] 3 : 92
+     [java] 4 : 91
+     [java] 5 : 90
+     [java] 6 : 89
+     [java] 7 : 88
+     [java] 8 : 87
+     [java] 9 : 86
+     [java] 10 : 85
+     [java] 11 : 85
+     [java]    >>> Computation completed. Evaluating... 
+     [java]    >>> Evaluation completed. Fails: 0
+     [java]    >>> Average score (excluding fails): 85.0
+     [java] Input 1 successfully read. Computing...
+     [java] 1 : 93
+     [java] 2 : 92
+     [java] 3 : 91
+     [java] 4 : 90
+     [java] 5 : 89
+     [java] 6 : 88
+     [java] 7 : 87
+     [java] 8 : 86
+     [java] 9 : 85
+     [java] 10 : 84
+     [java] 11 : 84
+     [java]    >>> Computation completed. Evaluating... 
+     [java]    >>> Evaluation completed. Fails: 0
+     [java]    >>> Average score (excluding fails): 84.5
+     [java] Input 2 successfully read. Computing...
+     [java] 1 : 94
+     [java] 2 : 93
+     [java] 3 : 92
+     [java] 4 : 91
+     [java] 5 : 90
+     [java] 6 : 89
+     [java] 7 : 88
+     [java] 8 : 87
+     [java] 9 : 86
+     [java] 10 : 85
+     [java] 11 : 84
+     [java] 12 : 83
+     [java] 13 : 82
+     [java] 14 : 81
+     [java] 15 : 80
+     [java] 16 : 80
+     [java]    >>> Computation completed. Evaluating... 
+     [java]    >>> Evaluation completed. Fails: 0
+     [java]    >>> Average score (excluding fails): 83.0
+     [java] Input 3 successfully read. Computing...
+     [java] 1 : 98
+     [java] 2 : 97
+     [java] 3 : 96
+     [java] 4 : 95
+     [java] 5 : 94
+     [java] 6 : 93
+     [java] 7 : 92
+     [java] 8 : 91
+     [java] 9 : 90
+     [java] 10 : 89
+     [java] 11 : 88
+     [java] 12 : 87
+     [java] 13 : 86
+     [java] 14 : 85
+     [java] 15 : 84
+     [java] 16 : 84
+     [java]    >>> Computation completed. Evaluating... 
+     [java]    >>> Evaluation completed. Fails: 0
+     [java]    >>> Average score (excluding fails): 83.25
+     [java] Input 4 successfully read. Computing...
+     [java] 1 : 95
+     [java] 2 : 94
+     [java] 3 : 93
+     [java] 4 : 92
+     [java] 5 : 91
+     [java] 6 : 90
+     [java] 7 : 89
+     [java] 8 : 88
+     [java] 9 : 87
+     [java] 10 : 86
+     [java] 11 : 85
+     [java] 12 : 85
+     [java]    >>> Computation completed. Evaluating... 
+     [java]    >>> Evaluation completed. Fails: 0
+     [java]    >>> Average score (excluding fails): 83.6
+     [java] Input 5 successfully read. Computing...
+     [java] 1 : 93
+     [java] 2 : 92
+     [java] 3 : 91
+     [java] 4 : 90
+     [java] 5 : 89
+     [java] 6 : 88
+     [java] 7 : 87
+     [java] 8 : 86
+     [java] 9 : 85
+     [java] 10 : 84
+     [java] 11 : 83
+     [java] 12 : 82
+     [java] 13 : 81
+     [java] 14 : 80
+     [java] 15 : 80
+     [java]    >>> Computation completed. Evaluating... 
+     [java]    >>> Evaluation completed. Fails: 0
+     [java]    >>> Average score (excluding fails): 83.0
+     [java] Input 6 successfully read. Computing...
+     [java] 1 : 102
+     [java] 2 : 101
+     [java] 3 : 100
+     [java] 4 : 99
+     [java] 5 : 98
+     [java] 6 : 97
+     [java] 7 : 96
+     [java] 8 : 95
+     [java] 9 : 94
+     [java] 10 : 93
+     [java] 11 : 92
+     [java] 12 : 91
+     [java] 13 : 90
+     [java] 14 : 89
+     [java] 15 : 88
+     [java] 16 : 87
+     [java] 17 : 86
+     [java] 18 : 86
+     [java]    >>> Computation completed. Evaluating... 
+     [java]    >>> Evaluation completed. Fails: 0
+     [java]    >>> Average score (excluding fails): 83.42857142857143
+     [java] Input 7 successfully read. Computing...
+     [java] 1 : 93
+     [java] 2 : 92
+     [java] 3 : 91
+     [java] 4 : 90
+     [java] 5 : 89
+     [java] 6 : 88
+     [java] 7 : 87
+     [java] 8 : 86
+     [java] 9 : 85
+     [java] 10 : 84
+     [java] 11 : 84
+     [java]    >>> Computation completed. Evaluating... 
+     [java]    >>> Evaluation completed. Fails: 0
+     [java]    >>> Average score (excluding fails): 83.5
+     [java] Input 8 successfully read. Computing...
+     [java] 1 : 97
+     [java] 2 : 96
+     [java] 3 : 95
+     [java] 4 : 94
+     [java] 5 : 93
+     [java] 6 : 92
+     [java] 7 : 91
+     [java] 8 : 90
+     [java] 9 : 89
+     [java] 10 : 88
+     [java] 11 : 87
+     [java] 12 : 86
+     [java] 13 : 85
+     [java] 14 : 84
+     [java] 15 : 84
+     [java]    >>> Computation completed. Evaluating... 
+     [java]    >>> Evaluation completed. Fails: 0
+     [java]    >>> Average score (excluding fails): 83.55555555555556
+     [java] Input 9 successfully read. Computing...
+     [java] 1 : 91
+     [java] 2 : 90
+     [java] 3 : 89
+     [java] 4 : 88
+     [java] 5 : 87
+     [java] 6 : 86
+     [java] 7 : 85
+     [java] 8 : 84
+     [java] 9 : 83
+     [java] 10 : 82
+     [java] 11 : 81
+     [java] 12 : 81
+     [java]    >>> Computation completed. Evaluating... 
+     [java]    >>> Evaluation completed. Fails: 0
+     [java]    >>> Average score (excluding fails): 83.3
+     [java] Input 10 successfully read. Computing...
+     [java] 1 : 95
+     [java] 2 : 94
+     [java] 3 : 93
+     [java] 4 : 92
+     [java] 5 : 91
+     [java] 6 : 90
+     [java] 7 : 89
+     [java] 8 : 88
+     [java] 9 : 87
+     [java] 10 : 86
+     [java] 11 : 85
+     [java] 12 : 84
+     [java] 13 : 83
+     [java] 14 : 82
+     [java] 15 : 81
+     [java] 16 : 81
+     [java]    >>> Computation completed. Evaluating... 
+     [java]    >>> Evaluation completed. Fails: 0
+     [java]    >>> Average score (excluding fails): 83.0909090909091
+     [java] Input 11 successfully read. Computing...
+     [java] 1 : 88
+     [java] 2 : 87
+     [java] 3 : 86
+     [java] 4 : 85
+     [java] 5 : 85
+     [java]    >>> Computation completed. Evaluating... 
+     [java]    >>> Evaluation completed. Fails: 0
+     [java]    >>> Average score (excluding fails): 83.25
+     [java] Input 12 successfully read. Computing...
+     [java] 1 : 97
+     [java] 2 : 96
+     [java] 3 : 95
+     [java] 4 : 94
+     [java] 5 : 93
+     [java] 6 : 92
+     [java] 7 : 91
+     [java] 8 : 90
+     [java] 9 : 89
+     [java] 10 : 88
+     [java] 11 : 88
+     [java]    >>> Computation completed. Evaluating... 
+     [java]    >>> Evaluation completed. Fails: 0
+     [java]    >>> Average score (excluding fails): 83.61538461538461
+     [java] Input 13 successfully read. Computing...
+     [java] 1 : 95
+     [java] 2 : 94
+     [java] 3 : 93
+     [java] 4 : 92
+     [java] 5 : 91
+     [java] 6 : 90
+     [java] 7 : 89
+     [java] 8 : 88
+     [java] 9 : 87
+     [java] 10 : 87
+     [java]    >>> Computation completed. Evaluating... 
+     [java]    >>> Evaluation completed. Fails: 0
+     [java]    >>> Average score (excluding fails): 83.85714285714286
+     [java] Input 14 successfully read. Computing...
+     [java] 1 : 91
+     [java] 2 : 90
+     [java] 3 : 89
+     [java] 4 : 88
+     [java] 5 : 87
+     [java] 6 : 86
+     [java] 7 : 85
+     [java] 8 : 84
+     [java] 9 : 83
+     [java] 10 : 82
+     [java] 11 : 82
+     [java]    >>> Computation completed. Evaluating... 
+     [java]    >>> Evaluation completed. Fails: 0
+     [java]    >>> Average score (excluding fails): 83.73333333333333
+     [java] Input 15 successfully read. Computing...
+     [java] 1 : 96
+     [java] 2 : 95
+     [java] 3 : 94
+     [java] 4 : 93
+     [java] 5 : 92
+     [java] 6 : 91
+     [java] 7 : 90
+     [java] 8 : 89
+     [java] 9 : 88
+     [java] 10 : 87
+     [java] 11 : 86
+     [java] 12 : 85
+     [java] 13 : 84
+     [java] 14 : 84
+     [java]    >>> Computation completed. Evaluating... 
+     [java]    >>> Evaluation completed. Fails: 0
+     [java]    >>> Average score (excluding fails): 83.75
+     [java] Input 16 successfully read. Computing...
+     [java] 1 : 90
+     [java] 2 : 89
+     [java] 3 : 88
+     [java] 4 : 87
+     [java] 5 : 86
+     [java] 6 : 85
+     [java] 7 : 84
+     [java] 8 : 83
+     [java] 9 : 82
+     [java] 10 : 81
+     [java] 11 : 81
+     [java]    >>> Computation completed. Evaluating... 
+     [java]    >>> Evaluation completed. Fails: 0
+     [java]    >>> Average score (excluding fails): 83.58823529411765
+     [java] Input 17 successfully read. Computing...
+     [java] 1 : 93
+     [java] 2 : 92
+     [java] 3 : 91
+     [java] 4 : 90
+     [java] 5 : 89
+     [java] 6 : 88
+     [java] 7 : 88
+     [java]    >>> Computation completed. Evaluating... 
+     [java]    >>> Evaluation completed. Fails: 0
+     [java]    >>> Average score (excluding fails): 83.83333333333333
+     [java] Input 18 successfully read. Computing...
+     [java] 1 : 90
+     [java] 2 : 89
+     [java] 3 : 88
+     [java] 4 : 87
+     [java] 5 : 86
+     [java] 6 : 85
+     [java] 7 : 84
+     [java] 8 : 83
+     [java] 9 : 82
+     [java] 10 : 81
+     [java] 11 : 80
+     [java] 12 : 80
+     [java]    >>> Computation completed. Evaluating... 
+     [java]    >>> Evaluation completed. Fails: 0
+     [java]    >>> Average score (excluding fails): 83.63157894736842
+     [java] Input 19 successfully read. Computing...
+     [java] 1 : 92
+     [java] 2 : 91
+     [java] 3 : 90
+     [java] 4 : 89
+     [java] 5 : 88
+     [java] 6 : 87
+     [java] 7 : 86
+     [java] 8 : 85
+     [java] 9 : 85
+     [java]    >>> Computation completed. Evaluating... 
+     [java]    >>> Evaluation completed. Fails: 0
+     [java]    >>> Average score (excluding fails): 83.7
+     [java] Input 20 successfully read. Computing...
+     [java] 1 : 93
+     [java] 2 : 92
+     [java] 3 : 91
+     [java] 4 : 90
+     [java] 5 : 89
+     [java] 6 : 88
+     [java] 7 : 87
+     [java] 8 : 86
+     [java] 9 : 85
+     [java] 10 : 85
+     [java]    >>> Computation completed. Evaluating... 
+     [java]    >>> Evaluation completed. Fails: 0
+     [java]    >>> Average score (excluding fails): 83.76190476190476
+     [java] Input 21 successfully read. Computing...
+     [java] 1 : 88
+     [java] 2 : 87
+     [java] 3 : 86
+     [java] 4 : 85
+     [java] 5 : 84
+     [java] 6 : 83
+     [java] 7 : 82
+     [java] 8 : 81
+     [java] 9 : 80
+     [java] 10 : 79
+     [java] 11 : 79
+     [java]    >>> Computation completed. Evaluating... 
+     [java]    >>> Evaluation completed. Fails: 0
+     [java]    >>> Average score (excluding fails): 83.54545454545455
+     [java] Input 22 successfully read. Computing...
+     [java] 1 : 96
+     [java] 2 : 95
+     [java] 3 : 94
+     [java] 4 : 93
+     [java] 5 : 92
+     [java] 6 : 91
+     [java] 7 : 90
+     [java] 8 : 89
+     [java] 9 : 88
+     [java] 10 : 87
+     [java] 11 : 86
+     [java] 12 : 86
+     [java]    >>> Computation completed. Evaluating... 
+     [java]    >>> Evaluation completed. Fails: 0
+     [java]    >>> Average score (excluding fails): 83.65217391304348
+     [java] Input 23 successfully read. Computing...
+     [java] 1 : 94
+     [java] 2 : 93
+     [java] 3 : 92
+     [java] 4 : 91
+     [java] 5 : 90
+     [java] 6 : 89
+     [java] 7 : 88
+     [java] 8 : 87
+     [java] 9 : 86
+     [java] 10 : 85
+     [java] 11 : 84
+     [java] 12 : 84
+     [java]    >>> Computation completed. Evaluating... 
+     [java]    >>> Evaluation completed. Fails: 0
+     [java]    >>> Average score (excluding fails): 83.66666666666667
+     [java] Input 24 successfully read. Computing...
+     [java] 1 : 87
+     [java] 2 : 86
+     [java] 3 : 85
+     [java] 4 : 84
+     [java] 5 : 83
+     [java] 6 : 82
+     [java] 7 : 81
+     [java] 8 : 81
+     [java]    >>> Computation completed. Evaluating... 
+     [java]    >>> Evaluation completed. Fails: 0
+     [java]    >>> Average score (excluding fails): 83.56
+     [java] Input 25 successfully read. Computing...
+     [java] 1 : 95
+     [java] 2 : 94
+     [java] 3 : 93
+     [java] 4 : 92
+     [java] 5 : 91
+     [java] 6 : 90
+     [java] 7 : 89
+     [java] 8 : 88
+     [java] 9 : 87
+     [java] 10 : 87
+     [java]    >>> Computation completed. Evaluating... 
+     [java]    >>> Evaluation completed. Fails: 0
+     [java]    >>> Average score (excluding fails): 83.6923076923077
+     [java] Input 26 successfully read. Computing...
+     [java] 1 : 92
+     [java] 2 : 91
+     [java] 3 : 90
+     [java] 4 : 89
+     [java] 5 : 88
+     [java] 6 : 87
+     [java] 7 : 86
+     [java] 8 : 85
+     [java] 9 : 84
+     [java] 10 : 84
+     [java]    >>> Computation completed. Evaluating... 
+     [java]    >>> Evaluation completed. Fails: 0
+     [java]    >>> Average score (excluding fails): 83.70370370370371
+     [java] Input 27 successfully read. Computing...
+     [java] 1 : 99
+     [java] 2 : 98
+     [java] 3 : 97
+     [java] 4 : 96
+     [java] 5 : 95
+     [java] 6 : 94
+     [java] 7 : 93
+     [java] 8 : 92
+     [java] 9 : 91
+     [java] 10 : 90
+     [java] 11 : 89
+     [java] 12 : 88
+     [java] 13 : 87
+     [java] 14 : 86
+     [java] 15 : 85
+     [java] 16 : 85
+     [java]    >>> Computation completed. Evaluating... 
+     [java]    >>> Evaluation completed. Fails: 0
+     [java]    >>> Average score (excluding fails): 83.75
+     [java] Input 28 successfully read. Computing...
+     [java] 1 : 95
+     [java] 2 : 94
+     [java] 3 : 93
+     [java] 4 : 92
+     [java] 5 : 91
+     [java] 6 : 90
+     [java] 7 : 89
+     [java] 8 : 88
+     [java] 9 : 87
+     [java] 10 : 86
+     [java] 11 : 85
+     [java] 12 : 85
+     [java]    >>> Computation completed. Evaluating... 
+     [java]    >>> Evaluation completed. Fails: 0
+     [java]    >>> Average score (excluding fails): 83.79310344827586
+     [java] Input 29 successfully read. Computing...
+     [java] 1 : 97
+     [java] 2 : 96
+     [java] 3 : 95
+     [java] 4 : 94
+     [java] 5 : 93
+     [java] 6 : 92
+     [java] 7 : 91
+     [java] 8 : 90
+     [java] 9 : 89
+     [java] 10 : 88
+     [java] 11 : 87
+     [java] 12 : 86
+     [java] 13 : 85
+     [java] 14 : 85
+     [java]    >>> Computation completed. Evaluating... 
+     [java]    >>> Evaluation completed. Fails: 0
+     [java]    >>> Average score (excluding fails): 83.83333333333333
+     [java] Input 30 successfully read. Computing...
+     [java] 1 : 91
+     [java] 2 : 90
+     [java] 3 : 89
+     [java] 4 : 88
+     [java] 5 : 87
+     [java] 6 : 86
+     [java] 7 : 85
+     [java] 8 : 84
+     [java] 9 : 83
+     [java] 10 : 82
+     [java] 11 : 81
+     [java] 12 : 80
+     [java] 13 : 80
+     [java]    >>> Computation completed. Evaluating... 
+     [java]    >>> Evaluation completed. Fails: 0
+     [java]    >>> Average score (excluding fails): 83.70967741935483
+     [java] Input 31 successfully read. Computing...
+     [java] 1 : 93
+     [java] 2 : 92
+     [java] 3 : 91
+     [java] 4 : 90
+     [java] 5 : 89
+     [java] 6 : 88
+     [java] 7 : 87
+     [java] 8 : 86
+     [java] 9 : 85
+     [java] 10 : 84
+     [java] 11 : 83
+     [java] 12 : 83
+     [java]    >>> Computation completed. Evaluating... 
+     [java]    >>> Evaluation completed. Fails: 0
+     [java]    >>> Average score (excluding fails): 83.6875
+     [java] Input 32 successfully read. Computing...
+     [java] 1 : 98
+     [java] 2 : 97
+     [java] 3 : 96
+     [java] 4 : 95
+     [java] 5 : 94
+     [java] 6 : 93
+     [java] 7 : 92
+     [java] 8 : 91
+     [java] 9 : 90
+     [java] 10 : 89
+     [java] 11 : 88
+     [java] 12 : 87
+     [java] 13 : 86
+     [java] 14 : 85
+     [java] 15 : 84
+     [java] 16 : 83
+     [java] 17 : 82
+     [java] 18 : 82
+     [java]    >>> Computation completed. Evaluating... 
+     [java]    >>> Evaluation completed. Fails: 0
+     [java]    >>> Average score (excluding fails): 83.63636363636364
+     [java] Input 33 successfully read. Computing...
+     [java] 1 : 92
+     [java] 2 : 91
+     [java] 3 : 90
+     [java] 4 : 89
+     [java] 5 : 88
+     [java] 6 : 87
+     [java] 7 : 86
+     [java] 8 : 86
+     [java]    >>> Computation completed. Evaluating... 
+     [java]    >>> Evaluation completed. Fails: 0
+     [java]    >>> Average score (excluding fails): 83.70588235294117
+     [java] Input 34 successfully read. Computing...
+     [java] 1 : 90
+     [java] 2 : 89
+     [java] 3 : 88
+     [java] 4 : 87
+     [java] 5 : 86
+     [java] 6 : 85
+     [java] 7 : 84
+     [java] 8 : 83
+     [java] 9 : 82
+     [java] 10 : 81
+     [java] 11 : 80
+     [java] 12 : 80
+     [java]    >>> Computation completed. Evaluating... 
+     [java]    >>> Evaluation completed. Fails: 0
+     [java]    >>> Average score (excluding fails): 83.6
+     [java] Input 35 successfully read. Computing...
+     [java] 1 : 96
+     [java] 2 : 95
+     [java] 3 : 94
+     [java] 4 : 93
+     [java] 5 : 92
+     [java] 6 : 91
+     [java] 7 : 90
+     [java] 8 : 89
+     [java] 9 : 88
+     [java] 10 : 87
+     [java] 11 : 86
+     [java] 12 : 85
+     [java] 13 : 85
+     [java]    >>> Computation completed. Evaluating... 
+     [java]    >>> Evaluation completed. Fails: 0
+     [java]    >>> Average score (excluding fails): 83.63888888888889
+     [java] Input 36 successfully read. Computing...
+     [java] 1 : 92
+     [java] 2 : 91
+     [java] 3 : 90
+     [java] 4 : 89
+     [java] 5 : 88
+     [java] 6 : 87
+     [java] 7 : 86
+     [java] 8 : 85
+     [java] 9 : 85
+     [java]    >>> Computation completed. Evaluating... 
+     [java]    >>> Evaluation completed. Fails: 0
+     [java]    >>> Average score (excluding fails): 83.67567567567568
+     [java] Input 37 successfully read. Computing...
+     [java] 1 : 95
+     [java] 2 : 94
+     [java] 3 : 93
+     [java] 4 : 92
+     [java] 5 : 91
+     [java] 6 : 90
+     [java] 7 : 89
+     [java] 8 : 88
+     [java] 9 : 87
+     [java] 10 : 86
+     [java] 11 : 85
+     [java] 12 : 85
+     [java]    >>> Computation completed. Evaluating... 
+     [java]    >>> Evaluation completed. Fails: 0
+     [java]    >>> Average score (excluding fails): 83.71052631578948
+     [java] Input 38 successfully read. Computing...
+     [java] 1 : 90
+     [java] 2 : 89
+     [java] 3 : 88
+     [java] 4 : 87
+     [java] 5 : 86
+     [java] 6 : 85
+     [java] 7 : 84
+     [java] 8 : 83
+     [java] 9 : 82
+     [java] 10 : 81
+     [java] 11 : 81
+     [java]    >>> Computation completed. Evaluating... 
+     [java]    >>> Evaluation completed. Fails: 0
+     [java]    >>> Average score (excluding fails): 83.64102564102564
+     [java] Input 39 successfully read. Computing...
+     [java] 1 : 92
+     [java] 2 : 91
+     [java] 3 : 90
+     [java] 4 : 89
+     [java] 5 : 88
+     [java] 6 : 87
+     [java] 7 : 86
+     [java] 8 : 85
+     [java] 9 : 85
+     [java]    >>> Computation completed. Evaluating... 
+     [java]    >>> Evaluation completed. Fails: 0
+     [java]    >>> Average score (excluding fails): 83.675
+     [java] Input 40 successfully read. Computing...
+     [java] 1 : 95
+     [java] 2 : 94
+     [java] 3 : 93
+     [java] 4 : 92
+     [java] 5 : 91
+     [java] 6 : 90
+     [java] 7 : 89
+     [java] 8 : 88
+     [java] 9 : 87
+     [java] 10 : 87
+     [java]    >>> Computation completed. Evaluating... 
+     [java]    >>> Evaluation completed. Fails: 0
+     [java]    >>> Average score (excluding fails): 83.7560975609756
+     [java] Input 41 successfully read. Computing...
+     [java] 1 : 92
+     [java] 2 : 91
+     [java] 3 : 90
+     [java] 4 : 89
+     [java] 5 : 88
+     [java] 6 : 87
+     [java] 7 : 86
+     [java] 8 : 85
+     [java] 9 : 84
+     [java] 10 : 83
+     [java] 11 : 82
+     [java] 12 : 81
+     [java] 13 : 81
+     [java]    >>> Computation completed. Evaluating... 
+     [java]    >>> Evaluation completed. Fails: 0
+     [java]    >>> Average score (excluding fails): 83.69047619047619
+     [java] Input 42 successfully read. Computing...
+     [java] 1 : 93
+     [java] 2 : 92
+     [java] 3 : 91
+     [java] 4 : 90
+     [java] 5 : 89
+     [java] 6 : 88
+     [java] 7 : 87
+     [java] 8 : 86
+     [java] 9 : 85
+     [java] 10 : 84
+     [java] 11 : 83
+     [java] 12 : 82
+     [java] 13 : 82
+     [java]    >>> Computation completed. Evaluating... 
+     [java]    >>> Evaluation completed. Fails: 0
+     [java]    >>> Average score (excluding fails): 83.65116279069767
+     [java] Input 43 successfully read. Computing...
+     [java] 1 : 92
+     [java] 2 : 91
+     [java] 3 : 90
+     [java] 4 : 89
+     [java] 5 : 88
+     [java] 6 : 87
+     [java] 7 : 86
+     [java] 8 : 85
+     [java] 9 : 84
+     [java] 10 : 83
+     [java] 11 : 82
+     [java] 12 : 82
+     [java]    >>> Computation completed. Evaluating... 
+     [java]    >>> Evaluation completed. Fails: 0
+     [java]    >>> Average score (excluding fails): 83.61363636363636
+     [java] Input 44 successfully read. Computing...
+     [java] 1 : 97
+     [java] 2 : 96
+     [java] 3 : 95
+     [java] 4 : 94
+     [java] 5 : 93
+     [java] 6 : 92
+     [java] 7 : 91
+     [java] 8 : 90
+     [java] 9 : 89
+     [java] 10 : 88
+     [java] 11 : 87
+     [java] 12 : 86
+     [java] 13 : 85
+     [java] 14 : 85
+     [java]    >>> Computation completed. Evaluating... 
+     [java]    >>> Evaluation completed. Fails: 0
+     [java]    >>> Average score (excluding fails): 83.64444444444445
+     [java] Input 45 successfully read. Computing...
+     [java] 1 : 96
+     [java] 2 : 95
+     [java] 3 : 94
+     [java] 4 : 93
+     [java] 5 : 92
+     [java] 6 : 91
+     [java] 7 : 90
+     [java] 8 : 89
+     [java] 9 : 88
+     [java] 10 : 87
+     [java] 11 : 86
+     [java] 12 : 85
+     [java] 13 : 84
+     [java] 14 : 83
+     [java] 15 : 83
+     [java]    >>> Computation completed. Evaluating... 
+     [java]    >>> Evaluation completed. Fails: 0
+     [java]    >>> Average score (excluding fails): 83.6304347826087
+     [java] Input 46 successfully read. Computing...
+     [java] 1 : 93
+     [java] 2 : 92
+     [java] 3 : 91
+     [java] 4 : 90
+     [java] 5 : 89
+     [java] 6 : 88
+     [java] 7 : 87
+     [java] 8 : 86
+     [java] 9 : 85
+     [java] 10 : 85
+     [java]    >>> Computation completed. Evaluating... 
+     [java]    >>> Evaluation completed. Fails: 0
+     [java]    >>> Average score (excluding fails): 83.65957446808511
+     [java] Input 47 successfully read. Computing...
+     [java] 1 : 90
+     [java] 2 : 89
+     [java] 3 : 88
+     [java] 4 : 87
+     [java] 5 : 86
+     [java] 6 : 85
+     [java] 7 : 84
+     [java] 8 : 84
+     [java]    >>> Computation completed. Evaluating... 
+     [java]    >>> Evaluation completed. Fails: 0
+     [java]    >>> Average score (excluding fails): 83.66666666666667
+     [java] Input 48 successfully read. Computing...
+     [java] 1 : 92
+     [java] 2 : 91
+     [java] 3 : 90
+     [java] 4 : 89
+     [java] 5 : 88
+     [java] 6 : 88
+     [java]    >>> Computation completed. Evaluating... 
+     [java]    >>> Evaluation completed. Fails: 0
+     [java]    >>> Average score (excluding fails): 83.75510204081633
+     [java] Input 49 successfully read. Computing...
+     [java] 1 : 94
+     [java] 2 : 93
+     [java] 3 : 92
+     [java] 4 : 91
+     [java] 5 : 90
+     [java] 6 : 89
+     [java] 7 : 88
+     [java] 8 : 87
+     [java] 9 : 86
+     [java] 10 : 85
+     [java] 11 : 85
+     [java]    >>> Computation completed. Evaluating... 
+     [java]    >>> Evaluation completed. Fails: 0
+     [java]    >>> Average score (excluding fails): 83.78
+     [java] Input 50 successfully read. Computing...
+     [java] 1 : 100
+     [java] 2 : 99
+     [java] 3 : 98
+     [java] 4 : 97
+     [java] 5 : 96
+     [java] 6 : 95
+     [java] 7 : 94
+     [java] 8 : 93
+     [java] 9 : 92
+     [java] 10 : 91
+     [java] 11 : 90
+     [java] 12 : 89
+     [java] 13 : 88
+     [java] 14 : 87
+     [java] 15 : 86
+     [java] 16 : 86
+     [java]    >>> Computation completed. Evaluating... 
+     [java]    >>> Evaluation completed. Fails: 0
+     [java]    >>> Average score (excluding fails): 83.82352941176471
+     [java] Input 51 successfully read. Computing...
+     [java] 1 : 93
+     [java] 2 : 92
+     [java] 3 : 91
+     [java] 4 : 90
+     [java] 5 : 89
+     [java] 6 : 88
+     [java] 7 : 87
+     [java] 8 : 86
+     [java] 9 : 85
+     [java] 10 : 84
+     [java] 11 : 84
+     [java]    >>> Computation completed. Evaluating... 
+     [java]    >>> Evaluation completed. Fails: 0
+     [java]    >>> Average score (excluding fails): 83.82692307692308
+     [java] Input 52 successfully read. Computing...
+     [java] 1 : 95
+     [java] 2 : 94
+     [java] 3 : 93
+     [java] 4 : 92
+     [java] 5 : 91
+     [java] 6 : 90
+     [java] 7 : 89
+     [java] 8 : 88
+     [java] 9 : 87
+     [java] 10 : 86
+     [java] 11 : 85
+     [java] 12 : 84
+     [java] 13 : 84
+     [java]    >>> Computation completed. Evaluating... 
+     [java]    >>> Evaluation completed. Fails: 0
+     [java]    >>> Average score (excluding fails): 83.83018867924528
+     [java] Input 53 successfully read. Computing...
+     [java] 1 : 98
+     [java] 2 : 97
+     [java] 3 : 96
+     [java] 4 : 95
+     [java] 5 : 94
+     [java] 6 : 93
+     [java] 7 : 92
+     [java] 8 : 91
+     [java] 9 : 90
+     [java] 10 : 89
+     [java] 11 : 88
+     [java] 12 : 87
+     [java] 13 : 86
+     [java] 14 : 85
+     [java] 15 : 84
+     [java] 16 : 83
+     [java] 17 : 82
+     [java] 18 : 82
+     [java]    >>> Computation completed. Evaluating... 
+     [java]    >>> Evaluation completed. Fails: 0
+     [java]    >>> Average score (excluding fails): 83.79629629629629
+     [java] Input 54 successfully read. Computing...
+     [java] 1 : 96
+     [java] 2 : 95
+     [java] 3 : 94
+     [java] 4 : 93
+     [java] 5 : 92
+     [java] 6 : 91
+     [java] 7 : 90
+     [java] 8 : 89
+     [java] 9 : 88
+     [java] 10 : 87
+     [java] 11 : 86
+     [java] 12 : 85
+     [java] 13 : 84
+     [java] 14 : 83
+     [java] 15 : 82
+     [java] 16 : 82
+     [java]    >>> Computation completed. Evaluating... 
+     [java]    >>> Evaluation completed. Fails: 0
+     [java]    >>> Average score (excluding fails): 83.76363636363637
+     [java] Input 55 successfully read. Computing...
+     [java] 1 : 94
+     [java] 2 : 93
+     [java] 3 : 92
+     [java] 4 : 91
+     [java] 5 : 90
+     [java] 6 : 89
+     [java] 7 : 88
+     [java] 8 : 87
+     [java] 9 : 86
+     [java] 10 : 85
+     [java] 11 : 84
+     [java] 12 : 83
+     [java] 13 : 82
+     [java] 14 : 81
+     [java] 15 : 81
+     [java]    >>> Computation completed. Evaluating... 
+     [java]    >>> Evaluation completed. Fails: 0
+     [java]    >>> Average score (excluding fails): 83.71428571428571
+     [java] Input 56 successfully read. Computing...
+     [java] 1 : 91
+     [java] 2 : 90
+     [java] 3 : 89
+     [java] 4 : 88
+     [java] 5 : 87
+     [java] 6 : 86
+     [java] 7 : 85
+     [java] 8 : 84
+     [java] 9 : 84
+     [java]    >>> Computation completed. Evaluating... 
+     [java]    >>> Evaluation completed. Fails: 0
+     [java]    >>> Average score (excluding fails): 83.71929824561404
+     [java] Input 57 successfully read. Computing...
+     [java] 1 : 90
+     [java] 2 : 89
+     [java] 3 : 88
+     [java] 4 : 87
+     [java] 5 : 86
+     [java] 6 : 85
+     [java] 7 : 84
+     [java] 8 : 83
+     [java] 9 : 83
+     [java]    >>> Computation completed. Evaluating... 
+     [java]    >>> Evaluation completed. Fails: 0
+     [java]    >>> Average score (excluding fails): 83.70689655172414
+     [java] Input 58 successfully read. Computing...
+     [java] 1 : 96
+     [java] 2 : 95
+     [java] 3 : 94
+     [java] 4 : 93
+     [java] 5 : 92
+     [java] 6 : 91
+     [java] 7 : 90
+     [java] 8 : 89
+     [java] 9 : 88
+     [java] 10 : 87
+     [java] 11 : 86
+     [java] 12 : 85
+     [java] 13 : 84
+     [java] 14 : 83
+     [java] 15 : 83
+     [java]    >>> Computation completed. Evaluating... 
+     [java]    >>> Evaluation completed. Fails: 0
+     [java]    >>> Average score (excluding fails): 83.69491525423729
+     [java] Input 59 successfully read. Computing...
+     [java] 1 : 100
+     [java] 2 : 99
+     [java] 3 : 98
+     [java] 4 : 97
+     [java] 5 : 96
+     [java] 6 : 95
+     [java] 7 : 94
+     [java] 8 : 93
+     [java] 9 : 92
+     [java] 10 : 91
+     [java] 11 : 90
+     [java] 12 : 89
+     [java] 13 : 88
+     [java] 14 : 87
+     [java] 15 : 87
+     [java]    >>> Computation completed. Evaluating... 
+     [java]    >>> Evaluation completed. Fails: 0
+     [java]    >>> Average score (excluding fails): 83.75
+     [java] Input 60 successfully read. Computing...
+     [java] 1 : 100
+     [java] 2 : 99
+     [java] 3 : 98
+     [java] 4 : 97
+     [java] 5 : 96
+     [java] 6 : 95
+     [java] 7 : 94
+     [java] 8 : 93
+     [java] 9 : 92
+     [java] 10 : 91
+     [java] 11 : 90
+     [java] 12 : 89
+     [java] 13 : 88
+     [java] 14 : 87
+     [java] 15 : 87
+     [java]    >>> Computation completed. Evaluating... 
+     [java]    >>> Evaluation completed. Fails: 0
+     [java]    >>> Average score (excluding fails): 83.80327868852459
+     [java] Input 61 successfully read. Computing...
+     [java] 1 : 91
+     [java] 2 : 90
+     [java] 3 : 89
+     [java] 4 : 88
+     [java] 5 : 87
+     [java] 6 : 86
+     [java] 7 : 85
+     [java] 8 : 84
+     [java] 9 : 83
+     [java] 10 : 83
+     [java]    >>> Computation completed. Evaluating... 
+     [java]    >>> Evaluation completed. Fails: 0
+     [java]    >>> Average score (excluding fails): 83.79032258064517
+     [java] Input 62 successfully read. Computing...
+     [java] 1 : 93
+     [java] 2 : 92
+     [java] 3 : 91
+     [java] 4 : 90
+     [java] 5 : 89
+     [java] 6 : 88
+     [java] 7 : 87
+     [java] 8 : 86
+     [java] 9 : 85
+     [java] 10 : 84
+     [java] 11 : 83
+     [java] 12 : 82
+     [java] 13 : 82
+     [java]    >>> Computation completed. Evaluating... 
+     [java]    >>> Evaluation completed. Fails: 0
+     [java]    >>> Average score (excluding fails): 83.76190476190476
+     [java] Input 63 successfully read. Computing...
+     [java] 1 : 94
+     [java] 2 : 93
+     [java] 3 : 92
+     [java] 4 : 91
+     [java] 5 : 90
+     [java] 6 : 89
+     [java] 7 : 88
+     [java] 8 : 87
+     [java] 9 : 86
+     [java] 10 : 85
+     [java] 11 : 84
+     [java] 12 : 83
+     [java] 13 : 82
+     [java] 14 : 81
+     [java] 15 : 81
+     [java]    >>> Computation completed. Evaluating... 
+     [java]    >>> Evaluation completed. Fails: 0
+     [java]    >>> Average score (excluding fails): 83.71875
+     [java] Input 64 successfully read. Computing...
+     [java] 1 : 95
+     [java] 2 : 94
+     [java] 3 : 93
+     [java] 4 : 92
+     [java] 5 : 91
+     [java] 6 : 90
+     [java] 7 : 89
+     [java] 8 : 88
+     [java] 9 : 87
+     [java] 10 : 86
+     [java] 11 : 85
+     [java] 12 : 84
+     [java] 13 : 83
+     [java] 14 : 82
+     [java] 15 : 81
+     [java] 16 : 81
+     [java]    >>> Computation completed. Evaluating... 
+     [java]    >>> Evaluation completed. Fails: 0
+     [java]    >>> Average score (excluding fails): 83.67692307692307
+     [java] Input 65 successfully read. Computing...
+     [java] 1 : 93
+     [java] 2 : 92
+     [java] 3 : 91
+     [java] 4 : 90
+     [java] 5 : 89
+     [java] 6 : 88
+     [java] 7 : 87
+     [java] 8 : 86
+     [java] 9 : 85
+     [java] 10 : 85
+     [java]    >>> Computation completed. Evaluating... 
+     [java]    >>> Evaluation completed. Fails: 0
+     [java]    >>> Average score (excluding fails): 83.6969696969697
+     [java] Input 66 successfully read. Computing...
+     [java] 1 : 91
+     [java] 2 : 90
+     [java] 3 : 89
+     [java] 4 : 88
+     [java] 5 : 87
+     [java] 6 : 87
+     [java]    >>> Computation completed. Evaluating... 
+     [java]    >>> Evaluation completed. Fails: 0
+     [java]    >>> Average score (excluding fails): 83.74626865671642
+     [java] Input 67 successfully read. Computing...
+     [java] 1 : 98
+     [java] 2 : 97
+     [java] 3 : 96
+     [java] 4 : 95
+     [java] 5 : 94
+     [java] 6 : 93
+     [java] 7 : 92
+     [java] 8 : 91
+     [java] 9 : 90
+     [java] 10 : 89
+     [java] 11 : 88
+     [java] 12 : 87
+     [java] 13 : 86
+     [java] 14 : 85
+     [java] 15 : 85
+     [java]    >>> Computation completed. Evaluating... 
+     [java]    >>> Evaluation completed. Fails: 0
+     [java]    >>> Average score (excluding fails): 83.76470588235294
+     [java] Input 68 successfully read. Computing...
+     [java] 1 : 93
+     [java] 2 : 92
+     [java] 3 : 91
+     [java] 4 : 90
+     [java] 5 : 89
+     [java] 6 : 88
+     [java] 7 : 87
+     [java] 8 : 86
+     [java] 9 : 85
+     [java] 10 : 84
+     [java] 11 : 84
+     [java]    >>> Computation completed. Evaluating... 
+     [java]    >>> Evaluation completed. Fails: 0
+     [java]    >>> Average score (excluding fails): 83.76811594202898
+     [java] Input 69 successfully read. Computing...
+     [java] 1 : 96
+     [java] 2 : 95
+     [java] 3 : 94
+     [java] 4 : 93
+     [java] 5 : 92
+     [java] 6 : 91
+     [java] 7 : 90
+     [java] 8 : 89
+     [java] 9 : 89
+     [java]    >>> Computation completed. Evaluating... 
+     [java]    >>> Evaluation completed. Fails: 0
+     [java]    >>> Average score (excluding fails): 83.84285714285714
+     [java] Input 70 successfully read. Computing...
+     [java] 1 : 90
+     [java] 2 : 89
+     [java] 3 : 88
+     [java] 4 : 87
+     [java] 5 : 86
+     [java] 6 : 85
+     [java] 7 : 85
+     [java]    >>> Computation completed. Evaluating... 
+     [java]    >>> Evaluation completed. Fails: 0
+     [java]    >>> Average score (excluding fails): 83.85915492957747
+     [java] Input 71 successfully read. Computing...
+     [java] 1 : 95
+     [java] 2 : 94
+     [java] 3 : 93
+     [java] 4 : 92
+     [java] 5 : 91
+     [java] 6 : 90
+     [java] 7 : 89
+     [java] 8 : 88
+     [java] 9 : 87
+     [java] 10 : 86
+     [java] 11 : 85
+     [java] 12 : 84
+     [java] 13 : 83
+     [java] 14 : 82
+     [java] 15 : 82
+     [java]    >>> Computation completed. Evaluating... 
+     [java]    >>> Evaluation completed. Fails: 0
+     [java]    >>> Average score (excluding fails): 83.83333333333333
+     [java] Input 72 successfully read. Computing...
+     [java] 1 : 96
+     [java] 2 : 95
+     [java] 3 : 94
+     [java] 4 : 93
+     [java] 5 : 92
+     [java] 6 : 91
+     [java] 7 : 90
+     [java] 8 : 89
+     [java] 9 : 88
+     [java] 10 : 87
+     [java] 11 : 86
+     [java] 12 : 85
+     [java] 13 : 85
+     [java]    >>> Computation completed. Evaluating... 
+     [java]    >>> Evaluation completed. Fails: 0
+     [java]    >>> Average score (excluding fails): 83.84931506849315
+     [java] Input 73 successfully read. Computing...
+     [java] 1 : 96
+     [java] 2 : 95
+     [java] 3 : 94
+     [java] 4 : 93
+     [java] 5 : 92
+     [java] 6 : 91
+     [java] 7 : 91
+     [java]    >>> Computation completed. Evaluating... 
+     [java]    >>> Evaluation completed. Fails: 0
+     [java]    >>> Average score (excluding fails): 83.94594594594595
+     [java] Input 74 successfully read. Computing...
+     [java] 1 : 89
+     [java] 2 : 88
+     [java] 3 : 87
+     [java] 4 : 86
+     [java] 5 : 85
+     [java] 6 : 84
+     [java] 7 : 83
+     [java] 8 : 83
+     [java]    >>> Computation completed. Evaluating... 
+     [java]    >>> Evaluation completed. Fails: 0
+     [java]    >>> Average score (excluding fails): 83.93333333333334
+     [java] Input 75 successfully read. Computing...
+     [java] 1 : 89
+     [java] 2 : 88
+     [java] 3 : 87
+     [java] 4 : 86
+     [java] 5 : 85
+     [java] 6 : 84
+     [java] 7 : 83
+     [java] 8 : 83
+     [java]    >>> Computation completed. Evaluating... 
+     [java]    >>> Evaluation completed. Fails: 0
+     [java]    >>> Average score (excluding fails): 83.92105263157895
+     [java] Input 76 successfully read. Computing...
+     [java] 1 : 91
+     [java] 2 : 90
+     [java] 3 : 89
+     [java] 4 : 88
+     [java] 5 : 87
+     [java] 6 : 87
+     [java]    >>> Computation completed. Evaluating... 
+     [java]    >>> Evaluation completed. Fails: 0
+     [java]    >>> Average score (excluding fails): 83.96103896103897
+     [java] Input 77 successfully read. Computing...
+     [java] 1 : 92
+     [java] 2 : 91
+     [java] 3 : 90
+     [java] 4 : 89
+     [java] 5 : 88
+     [java] 6 : 87
+     [java] 7 : 86
+     [java] 8 : 85
+     [java] 9 : 84
+     [java] 10 : 83
+     [java] 11 : 83
+     [java]    >>> Computation completed. Evaluating... 
+     [java]    >>> Evaluation completed. Fails: 0
+     [java]    >>> Average score (excluding fails): 83.94871794871794
+     [java] Input 78 successfully read. Computing...
+     [java] 1 : 92
+     [java] 2 : 91
+     [java] 3 : 90
+     [java] 4 : 89
+     [java] 5 : 88
+     [java] 6 : 87
+     [java] 7 : 86
+     [java] 8 : 85
+     [java] 9 : 84
+     [java] 10 : 83
+     [java] 11 : 83
+     [java]    >>> Computation completed. Evaluating... 
+     [java]    >>> Evaluation completed. Fails: 0
+     [java]    >>> Average score (excluding fails): 83.9367088607595
+     [java] Input 79 successfully read. Computing...
+     [java] 1 : 86
+     [java] 2 : 85
+     [java] 3 : 84
+     [java] 4 : 83
+     [java] 5 : 82
+     [java] 6 : 82
+     [java]    >>> Computation completed. Evaluating... 
+     [java]    >>> Evaluation completed. Fails: 0
+     [java]    >>> Average score (excluding fails): 83.9125
+     [java] Input 80 successfully read. Computing...
+     [java] 1 : 93
+     [java] 2 : 92
+     [java] 3 : 91
+     [java] 4 : 90
+     [java] 5 : 89
+     [java] 6 : 88
+     [java] 7 : 87
+     [java] 8 : 86
+     [java] 9 : 85
+     [java] 10 : 84
+     [java] 11 : 83
+     [java] 12 : 82
+     [java] 13 : 81
+     [java] 14 : 80
+     [java] 15 : 80
+     [java]    >>> Computation completed. Evaluating... 
+     [java]    >>> Evaluation completed. Fails: 0
+     [java]    >>> Average score (excluding fails): 83.8641975308642
+     [java] Input 81 successfully read. Computing...
+     [java] 1 : 98
+     [java] 2 : 97
+     [java] 3 : 96
+     [java] 4 : 95
+     [java] 5 : 94
+     [java] 6 : 93
+     [java] 7 : 92
+     [java] 8 : 91
+     [java] 9 : 90
+     [java] 10 : 89
+     [java] 11 : 88
+     [java] 12 : 87
+     [java] 13 : 86
+     [java] 14 : 85
+     [java] 15 : 84
+     [java] 16 : 83
+     [java] 17 : 82
+     [java] 18 : 81
+     [java] 19 : 81
+     [java]    >>> Computation completed. Evaluating... 
+     [java]    >>> Evaluation completed. Fails: 0
+     [java]    >>> Average score (excluding fails): 83.82926829268293
+     [java] Input 82 successfully read. Computing...
+     [java] 1 : 90
+     [java] 2 : 89
+     [java] 3 : 88
+     [java] 4 : 87
+     [java] 5 : 86
+     [java] 6 : 85
+     [java] 7 : 84
+     [java] 8 : 83
+     [java] 9 : 82
+     [java] 10 : 82
+     [java]    >>> Computation completed. Evaluating... 
+     [java]    >>> Evaluation completed. Fails: 0
+     [java]    >>> Average score (excluding fails): 83.80722891566265
+     [java] Input 83 successfully read. Computing...
+     [java] 1 : 93
+     [java] 2 : 92
+     [java] 3 : 91
+     [java] 4 : 90
+     [java] 5 : 89
+     [java] 6 : 88
+     [java] 7 : 88
+     [java]    >>> Computation completed. Evaluating... 
+     [java]    >>> Evaluation completed. Fails: 0
+     [java]    >>> Average score (excluding fails): 83.85714285714286
+     [java] Input 84 successfully read. Computing...
+     [java] 1 : 87
+     [java] 2 : 86
+     [java] 3 : 85
+     [java] 4 : 84
+     [java] 5 : 83
+     [java] 6 : 82
+     [java] 7 : 81
+     [java] 8 : 80
+     [java] 9 : 79
+     [java] 10 : 79
+     [java]    >>> Computation completed. Evaluating... 
+     [java]    >>> Evaluation completed. Fails: 0
+     [java]    >>> Average score (excluding fails): 83.8
+     [java] Input 85 successfully read. Computing...
+     [java] 1 : 98
+     [java] 2 : 97
+     [java] 3 : 96
+     [java] 4 : 95
+     [java] 5 : 94
+     [java] 6 : 93
+     [java] 7 : 92
+     [java] 8 : 91
+     [java] 9 : 90
+     [java] 10 : 89
+     [java] 11 : 88
+     [java] 12 : 87
+     [java] 13 : 87
+     [java]    >>> Computation completed. Evaluating... 
+     [java]    >>> Evaluation completed. Fails: 0
+     [java]    >>> Average score (excluding fails): 83.83720930232558
+     [java] Input 86 successfully read. Computing...
+     [java] 1 : 92
+     [java] 2 : 91
+     [java] 3 : 90
+     [java] 4 : 89
+     [java] 5 : 88
+     [java] 6 : 87
+     [java] 7 : 86
+     [java] 8 : 85
+     [java] 9 : 84
+     [java] 10 : 83
+     [java] 11 : 83
+     [java]    >>> Computation completed. Evaluating... 
+     [java]    >>> Evaluation completed. Fails: 0
+     [java]    >>> Average score (excluding fails): 83.82758620689656
+     [java] Input 87 successfully read. Computing...
+     [java] 1 : 88
+     [java] 2 : 87
+     [java] 3 : 86
+     [java] 4 : 85
+     [java] 5 : 84
+     [java] 6 : 83
+     [java] 7 : 82
+     [java] 8 : 81
+     [java] 9 : 81
+     [java]    >>> Computation completed. Evaluating... 
+     [java]    >>> Evaluation completed. Fails: 0
+     [java]    >>> Average score (excluding fails): 83.79545454545455
+     [java] Input 88 successfully read. Computing...
+     [java] 1 : 85
+     [java] 2 : 84
+     [java] 3 : 83
+     [java] 4 : 82
+     [java] 5 : 81
+     [java] 6 : 80
+     [java] 7 : 79
+     [java] 8 : 79
+     [java]    >>> Computation completed. Evaluating... 
+     [java]    >>> Evaluation completed. Fails: 0
+     [java]    >>> Average score (excluding fails): 83.74157303370787
+     [java] Input 89 successfully read. Computing...
+     [java] 1 : 96
+     [java] 2 : 95
+     [java] 3 : 94
+     [java] 4 : 93
+     [java] 5 : 92
+     [java] 6 : 91
+     [java] 7 : 90
+     [java] 8 : 89
+     [java] 9 : 89
+     [java]    >>> Computation completed. Evaluating... 
+     [java]    >>> Evaluation completed. Fails: 0
+     [java]    >>> Average score (excluding fails): 83.8
+     [java] Input 90 successfully read. Computing...
+     [java] 1 : 90
+     [java] 2 : 89
+     [java] 3 : 88
+     [java] 4 : 87
+     [java] 5 : 86
+     [java] 6 : 85
+     [java] 7 : 84
+     [java] 8 : 83
+     [java] 9 : 83
+     [java]    >>> Computation completed. Evaluating... 
+     [java]    >>> Evaluation completed. Fails: 0
+     [java]    >>> Average score (excluding fails): 83.79120879120879
+     [java] Input 91 successfully read. Computing...
+     [java] 1 : 101
+     [java] 2 : 100
+     [java] 3 : 99
+     [java] 4 : 98
+     [java] 5 : 97
+     [java] 6 : 96
+     [java] 7 : 95
+     [java] 8 : 94
+     [java] 9 : 93
+     [java] 10 : 92
+     [java] 11 : 91
+     [java] 12 : 90
+     [java] 13 : 89
+     [java] 14 : 89
+     [java]    >>> Computation completed. Evaluating... 
+     [java]    >>> Evaluation completed. Fails: 0
+     [java]    >>> Average score (excluding fails): 83.84782608695652
+     [java] Input 92 successfully read. Computing...
+     [java] 1 : 89
+     [java] 2 : 88
+     [java] 3 : 87
+     [java] 4 : 86
+     [java] 5 : 85
+     [java] 6 : 84
+     [java] 7 : 83
+     [java] 8 : 82
+     [java] 9 : 81
+     [java] 10 : 80
+     [java] 11 : 80
+     [java]    >>> Computation completed. Evaluating... 
+     [java]    >>> Evaluation completed. Fails: 0
+     [java]    >>> Average score (excluding fails): 83.80645161290323
+     [java] Input 93 successfully read. Computing...
+     [java] 1 : 93
+     [java] 2 : 92
+     [java] 3 : 91
+     [java] 4 : 90
+     [java] 5 : 89
+     [java] 6 : 88
+     [java] 7 : 87
+     [java] 8 : 86
+     [java] 9 : 86
+     [java]    >>> Computation completed. Evaluating... 
+     [java]    >>> Evaluation completed. Fails: 0
+     [java]    >>> Average score (excluding fails): 83.82978723404256
+     [java] Input 94 successfully read. Computing...
+     [java] 1 : 91
+     [java] 2 : 90
+     [java] 3 : 89
+     [java] 4 : 88
+     [java] 5 : 87
+     [java] 6 : 86
+     [java] 7 : 85
+     [java] 8 : 84
+     [java] 9 : 83
+     [java] 10 : 82
+     [java] 11 : 82
+     [java]    >>> Computation completed. Evaluating... 
+     [java]    >>> Evaluation completed. Fails: 0
+     [java]    >>> Average score (excluding fails): 83.81052631578947
+     [java] Input 95 successfully read. Computing...
+     [java] 1 : 88
+     [java] 2 : 87
+     [java] 3 : 86
+     [java] 4 : 85
+     [java] 5 : 84
+     [java] 6 : 83
+     [java] 7 : 82
+     [java] 8 : 81
+     [java] 9 : 81
+     [java]    >>> Computation completed. Evaluating... 
+     [java]    >>> Evaluation completed. Fails: 0
+     [java]    >>> Average score (excluding fails): 83.78125
+     [java] Input 96 successfully read. Computing...
+     [java] 1 : 95
+     [java] 2 : 94
+     [java] 3 : 93
+     [java] 4 : 92
+     [java] 5 : 91
+     [java] 6 : 90
+     [java] 7 : 89
+     [java] 8 : 88
+     [java] 9 : 87
+     [java] 10 : 86
+     [java] 11 : 85
+     [java] 12 : 85
+     [java]    >>> Computation completed. Evaluating... 
+     [java]    >>> Evaluation completed. Fails: 0
+     [java]    >>> Average score (excluding fails): 83.79381443298969
+     [java] Input 97 successfully read. Computing...
+     [java] 1 : 99
+     [java] 2 : 98
+     [java] 3 : 97
+     [java] 4 : 96
+     [java] 5 : 95
+     [java] 6 : 94
+     [java] 7 : 93
+     [java] 8 : 92
+     [java] 9 : 91
+     [java] 10 : 90
+     [java] 11 : 89
+     [java] 12 : 88
+     [java] 13 : 87
+     [java] 14 : 87
+     [java]    >>> Computation completed. Evaluating... 
+     [java]    >>> Evaluation completed. Fails: 0
+     [java]    >>> Average score (excluding fails): 83.8265306122449
+     [java] Input 98 successfully read. Computing...
+     [java] 1 : 91
+     [java] 2 : 90
+     [java] 3 : 89
+     [java] 4 : 88
+     [java] 5 : 87
+     [java] 6 : 86
+     [java] 7 : 85
+     [java] 8 : 84
+     [java] 9 : 83
+     [java] 10 : 83
+     [java]    >>> Computation completed. Evaluating... 
+     [java]    >>> Evaluation completed. Fails: 0
+     [java]    >>> Average score (excluding fails): 83.81818181818181
+     [java] Input 99 successfully read. Computing...
+     [java] 1 : 90
+     [java] 2 : 89
+     [java] 3 : 88
+     [java] 4 : 87
+     [java] 5 : 86
+     [java] 6 : 85
+     [java] 7 : 84
+     [java] 8 : 83
+     [java] 9 : 82
+     [java] 10 : 82
+     [java]    >>> Computation completed. Evaluating... 
+     [java]    >>> Evaluation completed. Fails: 0
+     [java]    >>> Average score (excluding fails): 83.8
+     [java] --------------------------------------
+     [java] Total fails: 0
+     [java] Average score: 83.8
